@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-image
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /upload/
+Disallow: /stream/
+Disallow: /submission.php
+
